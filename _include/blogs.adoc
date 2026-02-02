@@ -1,0 +1,176 @@
+= 
+:allow-uri-read: 
+
+
+[cols="20%, 80%"]
+|===
+| *Categoria* | *Titolo del blog* 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - Che cos'è e perché è importante"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655["Da zero all'inferenza LLM in cinque minuti"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836["Da zero all'inferenza LLM - vLLM Edition"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914["Inferenza LLM - Offload della cache KV su ONTAP con vLLM e GDS"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-with-NVIDIA-NIM-and-Google-Cloud-NetApp-Volumes/ba-p/462253["Da zero all'inferenza LLM con NVIDIA NIM e Google Cloud NetApp Volumes"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Host-OpenAI-gpt-oss-on-NetApp-AIPod/ba-p/462603["Ospita OpenAI gpt-oss su NetApp AIPod"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-Cache-Offloading-When-is-it-Beneficial/ba-p/462900["KV Cache Offloading - Quando è vantaggioso?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-CPU-RAM-vs-storage/ba-p/464463["Scarico della cache KV - CPU RAM vs. storage"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KV cache offloading - esplorazione dei vantaggi dell'archiviazione condivisa"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893["ONTAP Tools for VMware 10.5 (Parte 1 di 3): rafforzamento del cloud privato VMware"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072["ONTAP Tools for VMware 10.5 (Parte 2 di 3): Proteggere le distribuzioni VMware vSphere e VCF"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312["ONTAP Tools for VMware 10.5 (Parte 3 di 3): Supporto per il tuo VMware Private Cloud"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334["Semplificazione della mobilità delle VM: estensione di Windows Admin Center basata su NetApp Shift Toolkit"] 
+
+
+| Cloud ibrido | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395["Potenziare le distribuzioni Microsoft con ONTAP: scala ciò che vuoi, quando vuoi, dove vuoi"] 
+
+
+| SAP e SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/["Protezione dei dati SAP HANA su Azure NetApp Files con SnapCenter"] 
+
+
+| SAP e SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/["Operazioni di aggiornamento e clonazione del sistema SAP su Azure NetApp Files con SnapCenter"] 
+
+
+| Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/["Hadoop Tiering su NetApp NFS (HOT) e S3 (COLD) con NetApp XCP — Guida end-to-end e automazione"] 
+
+
+| Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/["Modernizzazione dell'architettura dei dati: migrazione da HDFS Hive a Iceberg su Object Storage con NetApp"] 
+
+
+| Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/["Piattaforma dati moderna – Databricks con NetApp ONTAP (FSxN-AWS)"] 
+
+
+| Piattaforma dati | link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/["Creazione di un'architettura Flink dalle performance elevate con ONTAP"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp and VMware – meglio che mai"] 
+
+
+| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Inglese"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[Blog sull'AI su NetApp.com] 
+
+
+| AI | link:https://netapp.io/category/ai-ml/["Blog di intelligenza artificiale su thePub"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-getting-started["Parte 1: Introduzione"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-ontap-principal-storage["Parte 2: VCF e ONTAP archiviazione principale"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-element-principal-storage["Parte 3: VCF e storage Element principale"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-supplemental-storage["Parte 4: ONTAP Tools per VMware e storage supplementare"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["Ottimizza lo storage e i carichi di lavoro VMware ad alta intensità di dati in qualsiasi cloud"] 
+
+
+| Virtualizzazione | link:https://www.netapp.com/blog/vmware-migrate-workloads-azure/["Devi migrare carichi di lavoro VMware ad alta intensità di storage verso Azure VMware Solution? Leggi prima questo."] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Crash-Consistent-Backup-and-Restore-Operations-for-OpenShift-Virtualization-VMs/ba-p/459417["Operazioni di backup e ripristino coerenti con gli arresti anomali per le VM di OpenShift Virtualization utilizzando Trident 25.02"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Live-Migration-of-VMs-with-OpenShift-Virtualization-on-ROSA-and-Amazon-FSx-for/ba-p/456213["Migrazione live di VM con OpenShift Virtualization su ROSA e Amazon FSx per NetApp ONTAP"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/A-Backup-and-Restore-option-for-VM-data-protection-in-OpenShift-Virtualization/ba-p/452279["Un'opzione di backup e ripristino per la protezione dei dati delle VM in OpenShift Virtualization"] 
+
+
+| Virtualizzazione | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-for-OpenShift-Virtualization-VMs-non-disruptive-volume-move-operation-is/ba-p/451941["ONTAP per OpenShift Virtualization VMs: l'operazione di spostamento del volume senza interruzioni è tua da mantenere"] 
+
+
+| Cloud ibrido | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Migra le VM VMware su AWS utilizzando Amazon EC2 e il protocollo iSCSI di Amazon FSx ONTAP"] 
+
+
+| Cloud ibrido | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["Ottimizza lo storage per le distribuzioni VMware basate sul cloud"] 
+
+
+| Cloud ibrido | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["Inizia con Azure VMware Solution utilizzando le offerte cloud basate su NetApp"] 
+
+
+| Cloud ibrido | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["Configura Hybrid Cloud con FSx ONTAP e VMware Cloud su AWS SDDC utilizzando VMware HCX"] 
+
+
+| Cloud ibrido | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Supporto del datastore Google Cloud NetApp Volumes per Google Cloud VMware Engine (NetApp)"] 
+
+
+| Cloud ibrido | link:https://cloud.google.com/blog/products/compute/how-to-use-netapp-cvs-as-datastores-with-vmware-engine["Come utilizzare i volumi NetApp come datastore per Google Cloud VMware Engine (Google)"] 
+
+
+| Cloud ibrido | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/3-2-1-Data-Protection-for-VMware-with-SnapCenter-Plug-in-and-BlueXP-Backup-and/ba-p/446180["Protezione dei dati 3-2-1 per VMware con SnapCenter Plug-in e BlueXP Backup and Recovery per VM"] 
+
+
+| Cloud ibrido | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["Osservabilità per il modern datacenter con NetApp Cloud Insights"] 
+
+
+| Banche dati | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["Proteggi i tuoi carichi di lavoro SQL Server utilizzando NetApp SnapCenter con Amazon FSx ONTAP"] 
+
+
+| Banche dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernize-your-Oracle-database-operation-in-hybrid-cloud-with-Amazon-FSx-storage/ba-p/437554["Modernizza le operazioni del tuo database Oracle nel cloud ibrido con lo storage Amazon FSx"] 
+
+
+| Banche dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hybrid-cloud-database-solutions-with-SnapCenter/ba-p/171061#M5["Soluzioni di database cloud ibrido con SnapCenter"] 
+
+
+| Banche dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Automate-Your-Oracle-Database-Infrastructure-in-the-Hybrid-Cloud/ba-p/167046["Automatizza la tua infrastruttura di database Oracle nel cloud ibrido"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-Trident-Installation-on-Red-Hat-OpenShift-with-the-New-Certified/ba-p/459710["Semplificare l'installazione di Trident su Red Hat OpenShift con il nuovo operatore Trident certificato"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Unlock-Seamless-iSCSI-Storage-Integration-A-Guide-to-FSxN-on-ROSA-Clusters-for/ba-p/459124["Sblocca l'integrazione perfetta dello storage iSCSI: una guida a FSxN su cluster ROSA per iSCSI"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Amazon-FSx-for-NetApp-ONTAP-with-Red-Hat-OpenShift-Service-on-AWS-ROSA-using/ba-p/456167["Amazon FSx per NetApp ONTAP con Red Hat OpenShift Service on AWS (ROSA) utilizzando Hosted Control Plane"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Using-NVMe-TCP-to-consume-ONTAP-storage-for-your-modern-containerized-apps-on/ba-p/453706["Utilizzo di NVMe/TCP per consumare lo storage ONTAP per le tue moderne app containerizzate su VMware"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-as-backend-storage-for-the-integrated-image-registry-in-OpenShift/ba-p/453142["ONTAP come storage backend per il registro immagini integrato in OpenShift Container platform"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAP funge anche da storage per i log in Red Hat OpenShift Container Platform"] 
+
+
+| Contenitori | link:https://netapp.io/2021/05/21/docker-rate-limit-issue/["Installazione di NetApp Trident su Red Hat OpenShift – come risolvere il problema Docker 'toomanyrequests'!"] 
+
+
+| Contenitori | link:https://blog.netapp.com/accelerate-your-k8s-journey["Utilizzo di VMware Tanzu con ONTAP per accelerare il tuo percorso Kubernetes"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-1/ba-p/445634["Kubernetes su vSphere (Part 1)"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-2/ba-p/445848["Kubernetes su vSphere (Part 2)"] 
+
+
+| Contenitori | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAP funge anche da storage per i log in Red Hat OpenShift Container Platform"] 
+|===
