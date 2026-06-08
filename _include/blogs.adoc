@@ -7,6 +7,12 @@
 | *Categoria* | *Titolo del blog* 
 
 
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP vs. Abilità dell'agente: quali sono le differenze e perché sono importanti per NetApp?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-with-vLLM-LMCache-and-ONTAP-pNFS/ba-p/467414["Scarico della cache KV con vLLM, LMCache e ONTAP pNFS"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - Che cos'è e perché è importante"] 
 
 
@@ -109,13 +115,13 @@
 | Cloud ibrido | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Migra le VM VMware su AWS utilizzando Amazon EC2 e il protocollo iSCSI di Amazon FSx ONTAP"] 
 
 
-| Cloud ibrido | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["Ottimizza lo storage per le distribuzioni VMware basate sul cloud"] 
+| Cloud ibrido | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["Ottimizza lo storage e i carichi di lavoro VMware ad alta intensità di dati in qualsiasi cloud"] 
 
 
-| Cloud ibrido | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["Inizia con Azure VMware Solution utilizzando le offerte cloud basate su NetApp"] 
+| Cloud ibrido | link:https://www.netapp.com/blog/vmware-simplify-workloads-azure/["Azure NetApp Files - Semplificare i carichi di lavoro VMware su Azure"] 
 
 
-| Cloud ibrido | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["Configura Hybrid Cloud con FSx ONTAP e VMware Cloud su AWS SDDC utilizzando VMware HCX"] 
+| Cloud ibrido | link:https://www.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx/["Configurare il cloud ibrido con FSx per NetApp ONTAP e VMware Cloud on AWS SDDC utilizzando VMware HCX"] 
 
 
 | Cloud ibrido | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Supporto del datastore Google Cloud NetApp Volumes per Google Cloud VMware Engine (NetApp)"] 
@@ -128,6 +134,18 @@
 
 
 | Cloud ibrido | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["Osservabilità per il modern datacenter con NetApp Cloud Insights"] 
+
+
+| Banche dati | link:https://www.netapp.com/blog/reduce-data-movement-polybase-fsx-ontap/["Riduzione dei costi di spostamento dei dati con SQL Server 2025 PolyBase e Amazon FSx for NetApp ONTAP S3 access points"] 
+
+
+| Banche dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Cutting-Data-Movement-Costs-with-SQL-Server-2025-PolyBase-and-FSx-for-ONTAP-S3/ba-p/466075["Riduzione dei costi di spostamento dei dati con SQL Server 2025 PolyBase e Amazon FSx for NetApp ONTAP S3 access points (Approfondimento tecnico)"] 
+
+
+| Banche dati | link:https://www.netapp.com/blog/sql-server-always-on-fci-fsx-ontap/["Sfruttare SQL Server always on FCI con FSx per NetApp ONTAP SnapMirror"] 
+
+
+| Banche dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Data-Protection-SQL-Server-Always-On-FCIs-with-FSx-for-NetApp-ONTAP-and/ba-p/461025["Protezione dei dati SQL Server Always On FCIs con FSx for NetApp ONTAP e SnapMirror"] 
 
 
 | Banche dati | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["Proteggi i tuoi carichi di lavoro SQL Server utilizzando NetApp SnapCenter con Amazon FSx ONTAP"] 
