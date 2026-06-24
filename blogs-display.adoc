@@ -25,6 +25,9 @@ Consulta i blog riportati di seguito che offrono indicazioni pratiche e best pra
 | *Categoria* | *Titolo del blog* 
 
 
+| Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Progettare un sistema di backup e disaster recovery aziendale per Cloudera con NetApp"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["Ottimizzazione dello scaricamento della cache KV per il contesto lungo"] 
 
 
@@ -444,6 +447,9 @@ Consulta i blog riportati di seguito che offrono indicazioni pratiche e best pra
 [cols="20%, 80%"]
 |===
 | *Categoria* | *Titolo del blog* 
+
+
+| Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Progettare un sistema di backup e disaster recovery aziendale per Cloudera con NetApp"] 
 
 
 | Piattaforma dati | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/["Hadoop Tiering su NetApp NFS (HOT) e S3 (COLD) con NetApp XCP — Guida end-to-end e automazione"] 
