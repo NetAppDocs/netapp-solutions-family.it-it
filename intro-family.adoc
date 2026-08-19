@@ -16,6 +16,7 @@ Le soluzioni sono organizzate in base ai domini tecnologici.
 
 
 
+[[virtualization]]
 == Virtualizzazione
 
 Accedi alle integrazioni NetApp con le principali piattaforme di virtualizzazione.  Semplifica la gestione, aumenta l'efficienza delle risorse e ottimizza le prestazioni in tutto il tuo ambiente.
@@ -24,6 +25,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/["Visualizza 
 
 
 
+[[artificial-intelligence-ai]]
 == Intelligenza artificiale (IA)
 
 Accelera i flussi di lavoro di apprendimento automatico e profondo con le soluzioni di intelligenza artificiale di NetApp.  Scopri come integrare lo storage NetApp con i framework di intelligenza artificiale più diffusi, ottimizzare le pipeline di dati e distribuire in modo efficiente i carichi di lavoro di intelligenza artificiale.
@@ -32,6 +34,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-ai/["Visualizza le soluzioni
 
 
 
+[[public-and-hybrid-cloud]]
 == Cloud pubblico e ibrido
 
 Distribuisci e gestisci le soluzioni NetApp senza problemi su infrastrutture cloud pubbliche, private e ibride.  Esplora le integrazioni con i principali provider cloud per consentire operazioni coerenti e una mobilità agile dei dati.
@@ -40,6 +43,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-cloud/["Visualizza le soluzi
 
 
 
+[[databases]]
 == Banche dati
 
 Ottimizza lo storage e le prestazioni per i database aziendali come Oracle e SQL Server.  Accedi alle best practice per il backup, il ripristino e l'ottimizzazione per garantire un supporto affidabile per i carichi di lavoro mission-critical.
@@ -48,6 +52,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-databases/["Visualizza le so
 
 
 
+[[sap-and-sap-hana]]
 == SAP e SAP HANA
 
 Esplora progetti convalidati, tecniche di ottimizzazione delle prestazioni e strategie di protezione dei dati per semplificare le operazioni e massimizzare il valore dei tuoi investimenti SAP.
@@ -56,6 +61,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-sap/["Visualizza le soluzion
 
 
 
+[[containers]]
 == Contenitori
 
 Supporta le applicazioni containerizzate con soluzioni di storage persistente e gestione dei dati di NetApp.  Scopri strategie di integrazione con piattaforme di orchestrazione per migliorare scalabilità e resilienza.
@@ -64,6 +70,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-containers/["Visualizza le s
 
 
 
+[[data-management]]
 == Gestione dei dati
 
 Supporta piattaforme di analisi su larga scala come Splunk e Apache Spark con soluzioni dati ad alte prestazioni.  Scopri come NetApp aiuta a mantenere l'integrità dei dati e a ottimizzare le prestazioni in ambienti di analisi complessi.
