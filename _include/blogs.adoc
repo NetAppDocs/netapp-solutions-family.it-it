@@ -7,6 +7,9 @@
 | *Categoria* | *Titolo del blog* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse: Unificazione dei dati da BI ad AI tra data center, hyperscaler e NeoClouds"] 
+
+
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Confronto tra framework di offloading della cache KV per vLLM"] 
 
 
